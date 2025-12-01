@@ -102,14 +102,12 @@ Ijebu-Igbo, Ogun State, Nigeria
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanokpe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanokpe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-</p>
+🚧 *GitHub stats will appear here as I build my open-source portfolio*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanokpe&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
-</p>
+**Recent Projects:**
+- [Portfolio Website](https://github.com/your-username/portfolio)
+- [FinTech Demo](https://github.com/your-username/fintech-demo)
+- [Laravel Projects](https://github.com/your-username/laravel-projects)
 ---
 
 ## 📫 Contact & Connect
