@@ -20,24 +20,26 @@ I consistently explore new technologies and best practices to deliver products t
 
 ---
 
-🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 ## Frontend Development
 
-⚛️ React.js
-▶️ Next.js
-📱 React Native
-🎨 Tailwind CSS, SCSS, MUI, Bootstrap
-🗂 Zustand, Redux, Context API
-🌗 Dark/Light UI Design, Responsive UI
+- ⚛️ React.js
+- ▶️ Next.js
+- 📱 Flutter
+- 🎨 Tailwind CSS, SCSS, MUI, Bootstrap
+- 🗂 Zustand, Redux, Context API
+- 🌗 Dark/Light UI Design, Responsive UI
 
 ## Backend Development
 
-🌐 Node.js
-🚀 Express.js
-🏗 NestJS (structured backend architecture)
-🔗 REST APIs, GraphQL APIs
-⚙️ Authentication, RBAC, JWT, Security Best Practices
+- 🌐 Node.js
+- 🌐 Lavarel
+- 🚀 Express.js
+- 📱Dart.js
+- 🏗 NestJS (structured backend architecture)
+- 🔗 REST APIs, GraphQL APIs
+- ⚙️ Authentication, RBAC, JWT, Security Best Practices
 
 
 ## 💼 Work Experience
