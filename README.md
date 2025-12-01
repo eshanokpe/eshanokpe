@@ -14,14 +14,30 @@
 
 **Full-Stack Developer with 5+ years of experience** building scalable web and mobile applications using modern technologies. Specialized in **Laravel PHP framework** and **Flutter** for cross-platform development, with proven success in **FinTech** and **property investment** sectors. Led end-to-end development of a property investment platform with digital wallet functionality, deployed to both PlayStore and App Store. Strong background in full-stack development, IoT solutions, and delivering user-centric applications.
 
+My experience spans SaaS platforms, dashboards, admin panels, eCommerce systems, mobile apps, and large-scale MERN applications with a strong focus on clean architecture, modular design, state management, security, and performance.
+
+I consistently explore new technologies and best practices to deliver products that are fast, secure, and user-friendly. If you’re building something exciting, I’d love to collaborate.
+
 ---
 
-## 🛠️ Technical Skills
+🚀 Tech Stack & Tools
 
-**Languages:** `PHP` `JavaScript` `Dart` `Python` `C/C++` `SQL`  
-**Frameworks:** `Laravel` `Flutter` `React.js` `CodeIgniter` `Node.js`  
-**Tools:** `Git` `MySQL` `Firebase` `Postman` `Jira` `Arduino IDE`  
-**Expertise:** Full-Stack Dev • Mobile Apps • IoT • FinTech • REST APIs
+## Frontend Development
+
+⚛️ React.js
+▶️ Next.js
+📱 React Native
+🎨 Tailwind CSS, SCSS, MUI, Bootstrap
+🗂 Zustand, Redux, Context API
+🌗 Dark/Light UI Design, Responsive UI
+
+## Backend Development
+
+🌐 Node.js
+🚀 Express.js
+🏗 NestJS (structured backend architecture)
+🔗 REST APIs, GraphQL APIs
+⚙️ Authentication, RBAC, JWT, Security Best Practices
 
 
 ## 💼 Work Experience
