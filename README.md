@@ -70,7 +70,7 @@
 - **Tech Stack:** Laravel, Bootstrap, MySQL, JavaScript
 - **Live Link:** [Website](https://nok.org.ng)
 
-### **📱 U-3Ds Devotional App**
+### **📱 3Ds Devotional App**
 > Cross-platform devotional application
 - **Tech Stack:** Flutter, Dart, Firebase
 - **Live Link:** [Play Store](https://play.google.com/store/apps/details?id=com.infoscertdev.u_3Ds)
@@ -102,7 +102,6 @@ Ijebu-Igbo, Ogun State, Nigeria
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eshanokpe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanokpe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
@@ -111,7 +110,6 @@ Ijebu-Igbo, Ogun State, Nigeria
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanokpe&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
-
 ---
 
 ## 📫 Contact & Connect
