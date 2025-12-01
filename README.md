@@ -14,7 +14,7 @@
 
 **Full-Stack Developer with 5+ years of experience** building scalable web and mobile applications using modern technologies. Specialized in **Laravel PHP framework** and **Flutter** for cross-platform development, with proven success in **FinTech** and **property investment** sectors. Led end-to-end development of a property investment platform with digital wallet functionality, deployed to both PlayStore and App Store. Strong background in full-stack development, IoT solutions, and delivering user-centric applications.
 
-My experience spans SaaS platforms, dashboards, admin panels, eCommerce systems, mobile apps, and large-scale MERN applications with a strong focus on clean architecture, modular design, state management, security, and performance.
+My experience spans **SaaS platforms**, **dashboards**, **admin panels**, **eCommerce systems**, and **mobile apps**, with a strong focus on clean architecture, modular design, state management, security, and performance.
 
 I consistently explore new technologies and best practices to deliver products that are fast, secure, and user-friendly. If you’re building something exciting, I’d love to collaborate.
 
@@ -51,19 +51,19 @@ I consistently explore new technologies and best practices to deliver products t
 - Collaborated with UI/UX designers on interface design
 - Conducted code reviews and optimized application performance
 
-### **Dohmayn Technology Limited** | *Full-Stack Developer* (2023 – 2024)
+### **Dohmayn Technology Limited** | *Full-Stack Developer* (2023 – 2025)
 - Led end-to-end development of property investment platform with digital wallet
 - Engineered secure Laravel back-end API handling property listings and transactions
 - Built cross-platform mobile app using Flutter, deployed to PlayStore & App Store
 - Integrated third-party payment platform for secure deposits and withdrawals
 
-### **Morgans Consortium** | *Full Stack Developer* (2020 – 2022)
+### **Morgans Consortium** | *Full Stack Developer* (2023 – 2025)
 - Designed and maintained full-stack web applications using PHP, Laravel, and MySQL
 - Developed responsive front-end interfaces with HTML, CSS, JavaScript, and Bootstrap
 - Implemented RESTful APIs for seamless data exchange
 - Managed version control using Git and project tracking via Jira
 
-### **Edmoss Global Limited** | *Software Developer and Arduino Programmer* (2018 – 2020)
+### **Edmoss Global Limited** | *Software Developer and Arduino Programmer* (2018 – 2022)
 - Developed full-stack applications using modern frameworks
 - Designed and implemented Arduino-based IoT projects and automation systems
 - Programmed Arduino boards using C/C++ for sensor interfacing
