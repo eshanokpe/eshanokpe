@@ -4,8 +4,8 @@
 <p align="center">
   <a href="mailto:eshanokpe@gmail.com"><img src="https://img.shields.io/badge/Email-eshanokpe@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="tel:+2348139267960"><img src="https://img.shields.io/badge/Phone-+2348139267960-green?style=flat-square&logo=whatsapp" alt="Phone"></a>
-  <a href="https://eshanokpe.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://eshanokpe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat-square&logo=github" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/daniel.eshanokpe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
